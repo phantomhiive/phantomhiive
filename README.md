@@ -1,9 +1,4 @@
 
-<!--
-**phantomhiive/phantomhiive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ![alt image](https://github.com/phantomhiive/phantomhiive/blob/6e0d5693aee29f65063cdd7ddfdb611aa09bd1be/Untitled246_20260906193401.png)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
