@@ -1,1 +1,4 @@
-[![Untitled246-20260906193401.png](https://i.postimg.cc/sxkwd76p/Untitled246-20260906193401.png)](https://postimg.cc/H8tQbcCx)
+
+<p align="center">
+  <img src="https://i.postimg.cc/sxkwd76p/Untitled246-20260906193401.png" width="400">
+</p> 
